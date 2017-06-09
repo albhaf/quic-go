@@ -6,4 +6,5 @@
 - Add a `quic.Config` option to request truncation of the connection ID from a server
 - Add a `quic.Config` option to configure the source address validation
 - Add a `quic.Config` option to configure the handshake timeout
+- Drop support for Go 1.7.
 - Various bugfixes
